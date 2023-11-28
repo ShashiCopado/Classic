@@ -560,6 +560,12 @@
         </filters>
         <label>My Open Cases</label>
     </listViews>
+    <recordTypes>
+        <fullName>Test_recordtype</fullName>
+        <active>true</active>
+        <businessProcess>test</businessProcess>
+        <label>Test_recordtype</label>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>CASES.CASE_NUMBER</customTabListAdditionalFields>
         <customTabListAdditionalFields>CASES.SUBJECT</customTabListAdditionalFields>
