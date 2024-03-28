@@ -153,53 +153,12 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <fields>
-        <fullName>Test_Picklist__c</fullName>
-        <externalId>false</externalId>
-        <label>Test_Picklist</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Picklist</type>
-        <valueSet>
-            <restricted>true</restricted>
-            <valueSetDefinition>
-                <sorted>false</sorted>
-                <value>
-                    <fullName>test2</fullName>
-                    <default>false</default>
-                    <label>test2</label>
-                </value>
-                <value>
-                    <fullName>test3</fullName>
-                    <default>false</default>
-                    <label>test3</label>
-                </value>
-                <value>
-                    <fullName>test1</fullName>
-                    <default>false</default>
-                    <isActive>false</isActive>
-                    <label>test1</label>
-                </value>
-            </valueSetDefinition>
-        </valueSet>
-    </fields>
-    <fields>
-        <fullName>Test_Text__c</fullName>
-        <encryptionScheme>None</encryptionScheme>
-        <externalId>false</externalId>
-        <label>Test Text</label>
-        <length>90</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <label>TestObject</label>
+    <label>Test for backpromotion</label>
     <nameField>
-        <label>TestObject Name</label>
+        <label>Test for backpromotion Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>TestObject</pluralLabel>
+    <pluralLabel>Test for backpromotions</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
