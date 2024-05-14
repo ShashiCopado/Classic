@@ -119,10 +119,6 @@
         <apexClass>MyClass1</apexClass>
         <enabled>false</enabled>
     </classAccesses>
-    <classAccesses>
-        <apexClass>testmyclass1</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
     <custom>false</custom>
     <fieldPermissions>
         <editable>false</editable>
@@ -140,11 +136,6 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.Address__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>false</editable>
         <field>Account.AnnualRevenue</field>
         <readable>false</readable>
@@ -158,11 +149,6 @@
         <editable>false</editable>
         <field>Account.CleanStatus</field>
         <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.Custom_Phone__c</field>
-        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -308,11 +294,6 @@
         <editable>false</editable>
         <field>Account.YearStarted</field>
         <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.boeingfield__c</field>
-        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -816,11 +797,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Case.ClosedOnCreate</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Case.ContactId</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1007,16 +983,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>ChangeRequest.FinalReviewNotes</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>ChangeRequest.RelatedIssueAutonumberMaster</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>ChangeRequest.RelatedItemAutonumberMaster</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1303,11 +1269,6 @@
         <editable>true</editable>
         <field>ContactPointAddress.UsageType</field>
         <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>ContactPointConsent.ContactPointTypeConsentId</field>
-        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -1686,21 +1647,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>DataUsePurpose.IsMaintainablePerContactPoint</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>DataUsePurpose.IsMaintainablePerParty</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>DataUsePurpose.IsMaintainablePerType</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>DataUsePurpose.LegalBasisId</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1826,11 +1772,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>FulfillmentOrder.FulfilledToAddress</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>FulfillmentOrder.FulfilledToEmailAddress</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1842,11 +1783,6 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>FulfillmentOrder.TotalProductAmount</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Idea.Attachment</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1912,11 +1848,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Incident.PriorityOverrideReason</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Incident.RelatedItemAutonumberMaster</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -2326,11 +2257,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>MessagingEndUser.IsOptedOut</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>MessagingEndUser.LeadId</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2631,11 +2557,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Problem.RelatedItemAutonumberMaster</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Problem.ResolutionDateTime</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2792,16 +2713,6 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Promotion.TermsAndConditions</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>PromotionQualifier.ExternalQualifier</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>PromotionTarget.ExternalTarget</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -3423,11 +3334,6 @@
         <editable>true</editable>
         <field>TestObject__c.Test_Picklist__c</field>
         <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>TestObject__c.Test_Text__c</field>
-        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -4078,10 +3984,6 @@
         <layout>TestObject__c-TestObject Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>TestObject__c-TestObject Layout</layout>
-        <recordType>TestObject__c.Test_recordtype</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>ThreatDetectionFeedback-Threat Detection Feedback Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -4107,9 +4009,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>WebStore-Store Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>WebStoreConfig-Web Store Configuration Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>WorkOrder-Work Order Layout</layout>
@@ -6225,16 +6124,6 @@
         <recordType>Case.Test_recordtype</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>true</default>
-        <recordType>TestObject__c.Test_recordtype</recordType>
-        <visible>true</visible>
-    </recordTypeVisibilities>
     <tabVisibilities>
         <tab>standard-Account</tab>
         <visibility>Hidden</visibility>
@@ -7663,10 +7552,6 @@
     <userPermissions>
         <enabled>false</enabled>
         <name>ManageTemplatedApp</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
-        <name>ManageTranslation</name>
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
