@@ -175,6 +175,11 @@
                     <label>test3</label>
                 </value>
                 <value>
+                    <fullName>test 3</fullName>
+                    <default>false</default>
+                    <label>test 3</label>
+                </value>
+                <value>
                     <fullName>test1</fullName>
                     <default>false</default>
                     <isActive>false</isActive>
@@ -200,6 +205,26 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>TestObject</pluralLabel>
+    <recordTypes>
+        <fullName>Test_recordtype</fullName>
+        <active>true</active>
+        <label>Test_recordtype</label>
+        <picklistValues>
+            <picklist>Test_Picklist__c</picklist>
+            <values>
+                <fullName>test 3</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>test2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>test3</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
