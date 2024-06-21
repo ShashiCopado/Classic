@@ -41,6 +41,19 @@
             </valueSetDefinition>
         </valueSet>
     </fields>
+    <fields>
+        <fullName>test_Field__c</fullName>
+        <encryptionScheme>None</encryptionScheme>
+        <externalId>false</externalId>
+        <label>test Field</label>
+        <length>34</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <recordTypes>
         <fullName>Test_recordtype</fullName>
         <active>true</active>
