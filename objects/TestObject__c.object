@@ -185,6 +185,7 @@
     </fields>
     <label>TestObject</label>
     <nameField>
+        <encryptionScheme>None</encryptionScheme>
         <label>TestObject Name</label>
         <type>Text</type>
     </nameField>
