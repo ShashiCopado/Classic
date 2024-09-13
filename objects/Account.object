@@ -450,6 +450,11 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Industry</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+    </fields>
+    <fields>
         <fullName>Test_CustomAcc_field__c</fullName>
         <encryptionScheme>None</encryptionScheme>
         <externalId>false</externalId>
