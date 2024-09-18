@@ -4,9 +4,5 @@
         <members>Test_Connectec_APP</members>
         <name>ConnectedApp</name>
     </types>
-    <types>
-        <members>Test_Permisson_set</members>
-        <name>PermissionSet</name>
-    </types>
     <version>61.0</version>
 </Package>
