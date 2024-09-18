@@ -7,7 +7,6 @@
     <logoUrl>https://login.salesforce.com/logos/Standard/case_transcript/logo.svg</logoUrl>
     <oauthConfig>
         <callbackUrl>https://openidconnect.herokuapp.com/callback</callbackUrl>
-        <consumerKey>3MVG9pRzvMkjMb6k_M1ULam6axfBtCtDZhAxaLdIDwvibArZpPMNW3HAs_ytdjjRtkL1QhIGFDzq2I4gkSHm0</consumerKey>
         <isAdminApproved>true</isAdminApproved>
         <isClientCredentialEnabled>false</isClientCredentialEnabled>
         <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
@@ -29,5 +28,6 @@
         <isTokenExchangeFlowEnabled>false</isTokenExchangeFlowEnabled>
         <refreshTokenPolicy>zero</refreshTokenPolicy>
     </oauthPolicy>
+    <permissionSetName>Experience Profile Manager</permissionSetName>
     <profileName>System Administrator</profileName>
 </ConnectedApp>
