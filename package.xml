@@ -4,5 +4,9 @@
         <members>Test_Custom_Permission</members>
         <name>CustomPermission</name>
     </types>
+    <types>
+        <members>Test_Permission_set_1</members>
+        <name>PermissionSet</name>
+    </types>
     <version>61.0</version>
 </Package>
