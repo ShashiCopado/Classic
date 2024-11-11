@@ -175,6 +175,29 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Test_Pick_value1__c</fullName>
+        <label>Test Pick value1</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Value 1</fullName>
+                    <default>false</default>
+                    <label>Value 1</label>
+                </value>
+                <value>
+                    <fullName>Value 2</fullName>
+                    <default>false</default>
+                    <label>Value 2</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
     <label>Test October</label>
     <nameField>
         <encryptionScheme>None</encryptionScheme>
