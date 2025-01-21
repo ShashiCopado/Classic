@@ -77,9 +77,6 @@
         <type>Lookup</type>
     </fields>
     <fields>
-        <fullName>AgentSentimentScore</fullName>
-    </fields>
-    <fields>
         <fullName>CallAcceptDateTime</fullName>
     </fields>
     <fields>
@@ -108,6 +105,9 @@
         <fullName>CallStartDateTime</fullName>
     </fields>
     <fields>
+        <fullName>CallSubtype</fullName>
+    </fields>
+    <fields>
         <fullName>CallType</fullName>
     </fields>
     <fields>
@@ -116,9 +116,6 @@
     </fields>
     <fields>
         <fullName>CustomerHoldDuration</fullName>
-    </fields>
-    <fields>
-        <fullName>CustomerSentimentScore</fullName>
     </fields>
     <fields>
         <fullName>Description</fullName>
@@ -132,6 +129,7 @@
     </fields>
     <fields>
         <fullName>FromPhoneNumber</fullName>
+        <encryptionScheme>None</encryptionScheme>
     </fields>
     <fields>
         <fullName>IsRecorded</fullName>
@@ -170,6 +168,7 @@
     </fields>
     <fields>
         <fullName>ToPhoneNumber</fullName>
+        <encryptionScheme>None</encryptionScheme>
     </fields>
     <fields>
         <fullName>UserId</fullName>
@@ -206,6 +205,7 @@
         <searchResultsAdditionalFields>CallStartDateTime</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>EndUser</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>Owner</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>CallOrigin</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>QualityScore</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>Private</sharingModel>

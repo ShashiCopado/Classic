@@ -145,6 +145,7 @@
     <externalSharingModel>ControlledByParent</externalSharingModel>
     <fields>
         <fullName>Address</fullName>
+        <encryptionScheme>None</encryptionScheme>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
@@ -154,6 +155,7 @@
     </fields>
     <fields>
         <fullName>Description</fullName>
+        <encryptionScheme>None</encryptionScheme>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
@@ -236,6 +238,7 @@
     </fields>
     <fields>
         <fullName>Subject</fullName>
+        <encryptionScheme>None</encryptionScheme>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>

@@ -8,5 +8,29 @@
         <plural>true</plural>
         <value>TestObject</value>
     </caseValues>
+    <fields>
+        <label><!-- Test_Picklist --></label>
+        <name>Test_Picklist__c</name>
+        <picklistValues>
+            <masterLabel>test 3</masterLabel>
+            <translation><!-- test 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>test2</masterLabel>
+            <translation><!-- test2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>test3</masterLabel>
+            <translation><!-- test3 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Test Text --></label>
+        <name>Test_Text__c</name>
+    </fields>
+    <recordTypes>
+        <label><!-- Test_recordtype --></label>
+        <name>Test_recordtype</name>
+    </recordTypes>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

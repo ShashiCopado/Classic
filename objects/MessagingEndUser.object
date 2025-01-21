@@ -142,10 +142,12 @@
     </fields>
     <fields>
         <fullName>MessagingPlatformKey</fullName>
+        <encryptionScheme>None</encryptionScheme>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Name</fullName>
+        <encryptionScheme>None</encryptionScheme>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
@@ -155,6 +157,7 @@
     </fields>
     <fields>
         <fullName>ProfilePictureUrl</fullName>
+        <encryptionScheme>None</encryptionScheme>
         <trackHistory>false</trackHistory>
     </fields>
     <listViews>
@@ -197,6 +200,7 @@
         <lookupPhoneDialogsAdditionalFields>MessagingConsentStatus</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>CONTACT.PHONE3</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>CONTACT.PHONE5</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>Account.Custom_Phone__c</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>MessagingPlatformKey</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>MessagingChannel</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>MessageType</searchResultsAdditionalFields>
