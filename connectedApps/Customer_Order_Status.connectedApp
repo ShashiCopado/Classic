@@ -7,6 +7,7 @@
     <logoUrl>https://login.salesforce.com/logos/Standard/case_transcript/logo.svg</logoUrl>
     <oauthConfig>
         <callbackUrl>https://openidconnect.herokuapp.com/callback</callbackUrl>
+        <consumerKey>3MVG95mg0lk4bathJ66YufdUeGoPvcVF7Q_VvepMYBzODWp0W08ZQ1uGHuq8afdkIrjygcky0eafsmff90sF1</consumerKey>
         <isAdminApproved>true</isAdminApproved>
         <isClientCredentialEnabled>false</isClientCredentialEnabled>
         <isCodeCredentialEnabled>false</isCodeCredentialEnabled>

@@ -155,7 +155,6 @@
     <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>Field1__c</fullName>
-        <encryptionScheme>None</encryptionScheme>
         <externalId>false</externalId>
         <label>Field1</label>
         <length>255</length>
@@ -199,12 +198,11 @@
     </fields>
     <label>Test October</label>
     <nameField>
-        <encryptionScheme>None</encryptionScheme>
         <label>Test October Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Test October</pluralLabel>
-    <searchLayouts />
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
