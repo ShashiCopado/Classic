@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>TestCustomLabelOCTOBER</members>
+        <members>TestCustomlabelJan2025</members>
         <name>CustomLabel</name>
     </types>
     <types>
         <members>de</members>
+        <members>it</members>
         <name>Translations</name>
     </types>
     <version>62.0</version>

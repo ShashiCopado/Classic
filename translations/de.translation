@@ -4,4 +4,8 @@
         <label></label>
         <name>TestCustomLabelOCTOBER</name>
     </customLabels>
+    <customLabels>
+        <label>This is german</label>
+        <name>TestCustomlabelJan2025</name>
+    </customLabels>
 </Translations>
