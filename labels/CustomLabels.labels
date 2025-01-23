@@ -8,6 +8,15 @@
         <value>Welcome</value>
     </labels>
     <labels>
+        <fullName>TestCustomlabelJan2025</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>TestCustomlabelJan2025</shortDescription>
+        <value>Hello
+welcome
+Good Day</value>
+    </labels>
+    <labels>
         <fullName>Test_custom_label</fullName>
         <language>en_US</language>
         <protected>true</protected>
