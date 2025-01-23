@@ -4,4 +4,8 @@
         <label>I love italian</label>
         <name>TestCustomLabelOCTOBER</name>
     </customLabels>
+    <customLabels>
+        <label>This is italian</label>
+        <name>TestCustomlabelJan2025</name>
+    </customLabels>
 </Translations>
