@@ -5,6 +5,10 @@
         <name>TestCustomLabelOCTOBER</name>
     </customLabels>
     <customLabels>
+        <label><!-- TestCustomlabelJan2025 --></label>
+        <name>TestCustomlabelJan2025</name>
+    </customLabels>
+    <customLabels>
         <label>hello</label>
         <name>Test_custom_label</name>
     </customLabels>

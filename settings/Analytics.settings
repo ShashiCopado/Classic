@@ -16,11 +16,11 @@
     <enableAutoCompleteCombo>true</enableAutoCompleteCombo>
     <enableAzureDLGen2OutputConnector>false</enableAzureDLGen2OutputConnector>
     <enableCreateLegacyDataflows>true</enableCreateLegacyDataflows>
-    <enableCrtSetupLightningUiPref>false</enableCrtSetupLightningUiPref>
+    <enableCrtSetupLightningUiPref>true</enableCrtSetupLightningUiPref>
+    <enableDashboardCmpRefreshPref>false</enableDashboardCmpRefreshPref>
     <enableDashboardComponentSnapshot>false</enableDashboardComponentSnapshot>
     <enableDashboardFlexiTable>true</enableDashboardFlexiTable>
     <enableDataCloudReportingPref>true</enableDataCloudReportingPref>
-    <enableDateFieldMinMaxAggPref>false</enableDateFieldMinMaxAggPref>
     <enableEmailReportsToPortalUsers>false</enableEmailReportsToPortalUsers>
     <enableFirebirdEditor>false</enableFirebirdEditor>
     <enableFloatingReportHeaders>true</enableFloatingReportHeaders>
@@ -51,6 +51,7 @@
     <enableSFXJoinedReportsEnable>false</enableSFXJoinedReportsEnable>
     <enableSalesforceOutputConnector>false</enableSalesforceOutputConnector>
     <enableSecureImageSharing>false</enableSecureImageSharing>
+    <enableShowHighContrastChart>false</enableShowHighContrastChart>
     <enableSnowflakeOutputConnector>false</enableSnowflakeOutputConnector>
     <enableSummaryFilterOrgPref>false</enableSummaryFilterOrgPref>
     <enableTableauHyperOutputConnector>false</enableTableauHyperOutputConnector>
