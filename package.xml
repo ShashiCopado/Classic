@@ -65,9 +65,7 @@
         <members>IdentityProvider</members>
         <members>IncidentMgmt</members>
         <members>Industries</members>
-        <members>IndustriesContext</members>
         <members>IndustriesEinsteinFeature</members>
-        <members>IndustriesPricing</members>
         <members>InsuranceBrokerage</members>
         <members>InvLatePymntRiskCalc</members>
         <members>Inventory</members>
