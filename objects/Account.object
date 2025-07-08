@@ -6,6 +6,11 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Name</fullName>
+        <encryptionScheme>ProbabilisticEncryption</encryptionScheme>
+        <trackFeedHistory>true</trackFeedHistory>
+    </fields>
+    <fields>
         <fullName>Test_CustomAcc_field__c</fullName>
         <encryptionScheme>None</encryptionScheme>
         <externalId>false</externalId>
@@ -16,4 +21,9 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <recordTypes>
+        <fullName>TestRecordType</fullName>
+        <active>true</active>
+        <label>TestRecordType</label>
+    </recordTypes>
 </CustomObject>
