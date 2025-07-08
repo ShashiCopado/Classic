@@ -146,6 +146,9 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Source</fullName>
+    </fields>
+    <fields>
         <fullName>Status</fullName>
     </fields>
     <fields>
