@@ -310,5 +310,10 @@
             </values>
         </picklistValues>
     </recordTypes>
+    <recordTypes>
+        <fullName>TestRecordType1</fullName>
+        <active>true</active>
+        <label>TestRecordType1</label>
+    </recordTypes>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
