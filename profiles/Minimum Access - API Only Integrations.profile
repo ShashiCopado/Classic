@@ -4259,6 +4259,10 @@
         <recordType>PersonAccount.PersonAccount</recordType>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>PersonAccount-Person Account Layout</layout>
+        <recordType>PersonAccount.TestRecordType1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>TestObject1__c-TestObject1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -4283,6 +4287,11 @@
         <default>false</default>
         <recordType>PersonAccount.PersonAccount</recordType>
         <visible>false</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>PersonAccount.TestRecordType1</recordType>
+        <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
