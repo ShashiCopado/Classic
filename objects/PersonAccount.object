@@ -4,6 +4,11 @@
     <enableHistory>false</enableHistory>
     <externalSharingModel>Private</externalSharingModel>
     <recordTypes>
+        <fullName>Test3</fullName>
+        <active>true</active>
+        <label>Test3</label>
+    </recordTypes>
+    <recordTypes>
         <fullName>TestRecordType1</fullName>
         <active>true</active>
         <label>TestRecordType1</label>
