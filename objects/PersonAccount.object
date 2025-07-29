@@ -15,6 +15,12 @@
         <label>Test3</label>
     </recordTypes>
     <recordTypes>
+        <fullName>Test4</fullName>
+        <active>true</active>
+        <description>Test4</description>
+        <label>Test4</label>
+    </recordTypes>
+    <recordTypes>
         <fullName>TestRecordType1</fullName>
         <active>true</active>
         <label>TestRecordType1</label>
