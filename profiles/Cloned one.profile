@@ -4512,6 +4512,10 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>PersonAccount-Person Account Layout</layout>
+        <recordType>PersonAccount.Test4</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>PersonAccount-Person Account Layout</layout>
         <recordType>PersonAccount.TestRecordType1</recordType>
     </layoutAssignments>
     <layoutAssignments>
@@ -5826,6 +5830,11 @@
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>PersonAccount.Test3</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>PersonAccount.Test4</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
