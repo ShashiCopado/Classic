@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>PersonAccount</members>
-        <name>CustomObject</name>
+        <members>TestObject__c.Test1__c</members>
+        <members>TestObject__c.Test2__c</members>
+        <name>CustomField</name>
     </types>
-    <types>
-        <members>PersonAccount.Test4</members>
-        <name>RecordType</name>
-    </types>
-    <types>
-        <members>Salutation</members>
-        <name>StandardValueSet</name>
-    </types>
-    <version>64.0</version>
+    <version>65.0</version>
 </Package>
