@@ -3754,6 +3754,21 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>TestObject__c.Test1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>TestObject__c.Test2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>TestObject__c.Test_3__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>TestObject__c.Test_Picklist__c</field>
         <readable>false</readable>
     </fieldPermissions>
