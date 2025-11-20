@@ -3,7 +3,13 @@
     <types>
         <members>TestObject__c.Test1__c</members>
         <members>TestObject__c.Test2__c</members>
+        <members>TestObject__c.Test_3__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>SolutionManager</members>
+        <members>Standard</members>
+        <name>Profile</name>
     </types>
     <version>65.0</version>
 </Package>
