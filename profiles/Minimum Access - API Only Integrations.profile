@@ -4295,6 +4295,9 @@
     <layoutAssignments>
         <layout>Test_October__c-Test October Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>UserAlt-User Profile Layout</layout>
+    </layoutAssignments>
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>Account.TestRecordType</recordType>
