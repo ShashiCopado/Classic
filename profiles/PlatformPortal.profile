@@ -3779,6 +3779,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Test_Jan__c.Test_FIeld_2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Test_Jan__c.Test_Field_1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Test_October__c.Field1__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -4638,6 +4648,9 @@
     <layoutAssignments>
         <layout>TestObject__c-TestObject Layout</layout>
         <recordType>TestObject__c.Test_recordtype</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test_Jan__c-Test Jan Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test_October__c-Test October Layout</layout>
