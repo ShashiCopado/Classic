@@ -155,6 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>Test1__c</fullName>
+        <description>this is testing for FLS</description>
         <encryptionScheme>None</encryptionScheme>
         <externalId>false</externalId>
         <label>Test1</label>
@@ -180,6 +181,28 @@
         <encryptionScheme>None</encryptionScheme>
         <externalId>false</externalId>
         <label>Test 3</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Test_FLS__c</fullName>
+        <encryptionScheme>None</encryptionScheme>
+        <externalId>false</externalId>
+        <label>Test FLS</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Test_FLSs__c</fullName>
+        <encryptionScheme>None</encryptionScheme>
+        <externalId>false</externalId>
+        <label>Test FLSs</label>
         <length>255</length>
         <required>false</required>
         <trackTrending>false</trackTrending>

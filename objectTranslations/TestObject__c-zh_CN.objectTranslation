@@ -17,6 +17,14 @@
         <name>Test_3__c</name>
     </fields>
     <fields>
+        <label><!-- Test FLS --></label>
+        <name>Test_FLS__c</name>
+    </fields>
+    <fields>
+        <label><!-- Test FLSs --></label>
+        <name>Test_FLSs__c</name>
+    </fields>
+    <fields>
         <label><!-- Test_Picklist --></label>
         <name>Test_Picklist__c</name>
         <picklistValues>
