@@ -319,7 +319,6 @@
     </fields>
     <fields>
         <fullName>Field1__c</fullName>
-        <encryptionScheme>None</encryptionScheme>
         <externalId>false</externalId>
         <label>Field1</label>
         <length>255</length>
