@@ -4,9 +4,5 @@
         <members>Lead.Field1__c</members>
         <name>CustomField</name>
     </types>
-    <types>
-        <members>Test_PS</members>
-        <name>PermissionSet</name>
-    </types>
     <version>66.0</version>
 </Package>
