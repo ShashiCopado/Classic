@@ -5364,6 +5364,10 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>standard-Shipment</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>standard-ShippingCarrier</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
